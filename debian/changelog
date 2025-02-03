@@ -1,3 +1,19 @@
+fonts-nerd-fonts (2.1.0-3) focal; urgency=medium
+
+  [ Ken Gilmer ]
+  * Add automation
+  * fix branch
+
+  [ Khosrow Moossavi ]
+  * chore: remove obsolete package broadcast action
+  * feat: enable github action to test pull requests
+  * feat: enable github action to publish to unstable
+  * feat: enable github action to publish to testing
+  * feat: enable github action to prepare release
+  * fix: create release tag from correct git sha
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Mon, 03 Feb 2025 21:22:00 +0000
+
 fonts-nerd-fonts (2.1.0-2) focal; urgency=medium
 
   [ Ken Gilmer ]
