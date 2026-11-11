@@ -1,3 +1,11 @@
+fonts-nerd-fonts (3.5.1-2) focal; urgency=medium
+
+  [ rego-port-bot ]
+  * chore: remove the fonts of the packages no longer built
+  * feat: update the fonts to Nerd Fonts 3.5.1
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Tue, 10 Nov 2026 17:31:40 -0800
+
 fonts-nerd-fonts (3.5.1-1) focal; urgency=medium
 
   [ rego-port-bot ]
